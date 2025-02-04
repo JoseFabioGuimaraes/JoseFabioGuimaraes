@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jose Fábio Guimarães and I'm a Software Engineer, from Paraíba, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Jose Fábio Guimarães and I'm a Software Development, from Paraíba, Brazil</h2>
 
 ###
 
