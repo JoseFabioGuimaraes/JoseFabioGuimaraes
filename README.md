@@ -1,56 +1,73 @@
-<h2 align="left">Hi 👋! My name is Jose Fábio Guimarães and I'm a Software Developer from Paraíba, Brazil</h2>
+```json
+{
+  "about_me": {
+    "name": "José Fábio Guimarães",
+    "username": "josefabioguimaraes",
+    "role": "Full Stack Developer",
+    "degree": "Bachelor's in Information Systems",
+    "location": "Brazil",
+    "languages": ["Portuguese", "English"]
+  },
 
-###
+  "interests": [
+    "Cloud Computing",
+    "Software Architecture",
+    "Microservices",
+    "Artificial Intelligence",
+    "Software Optimization"
+  ],
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseFabioGuimaraes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JoseFabioGuimaraes&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" height="150" alt="Linguagens mais usadas" />
+  "hobbies": [
+    "Cooking",
+    "Car enthusiast"
+  ],
+
+  "currently_learning": "Elixir"
+}
+```
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl2ZzAzMWd3a2VkbmV4N2I3eWY1bzhxcW1tbmltZnlma254Y3g2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F6X1dy3k98VLRbCl1u/giphy.gif"  />
 </div>
 
 ###
 
-<h3>🛠️ Tech Stack</h3>
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:20px; width:auto;" alt="javascript logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:20px; width:auto;" alt="typescript logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:20px; width:auto;" alt="python logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height:20px; width:auto;" alt="django logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="height:20px; width:auto;" alt="flask logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:20px; width:auto;" alt="java logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:20px; width:auto;" alt="spring logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:20px; width:auto;" alt="react logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height:20px; width:auto;" alt="angularjs logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height:20px; width:auto;" alt="express logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:20px; width:auto;" alt="nextjs logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:20px; width:auto;" alt="postgresql logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:20px; width:auto;" alt="mysql logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height:20px; width:auto;" alt="mongodb logo" />
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
 </div>
 
 ###
 
-<h3>📫 Contact Me</h3>
-
-<div align="left">
-  <a href="mailto:jfabioguimaraes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/jfabioguimaraes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/jfabioguimaraes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/jfabioguimaraes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/josefabioguimaraes/josefabioguimaraes/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/josefabioguimaraes/josefabioguimaraes/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/josefabioguimaraes/josefabioguimaraes/output/snake.svg" alt="Snake animation" />
 
 ###
